@@ -207,7 +207,7 @@ insert into Posts (PostID, PostDescription, PostedBy, IsPublic, IsOnlyForFriends
 insert into Posts (PostID, PostDescription, PostedBy, IsPublic, IsOnlyForFriends, GroupID, DatePosted) values (50, 'Laryngeal fistula clos', 19, false, false, 34, '2024-07-14 10:39:58');
 
 --Insert GroupMembershipRequests
-insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (1, 36, 45, false, '2024-05-18 21:23:47');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (1, 2, 45, false, '2024-05-18 21:23:47');
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (2, 5, 41, false, '2023-09-10 08:30:31');
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (3, 38, 27, true, '2024-04-13 10:49:46');
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (4, 28, 22, true, '2024-02-02 14:02:18');
@@ -224,7 +224,7 @@ insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMe
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (15, 22, 42, true, '2024-07-09 14:11:15');
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (16, 12, 39, true, '2024-08-27 19:20:18');
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (17, 6, 25, false, '2024-05-27 13:03:35');
-insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (18, 31, 14, false, '2024-07-18 15:32:32');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (18, 2, 14, false, '2024-07-18 15:32:32');
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (19, 28, 23, true, '2023-09-29 12:20:04');
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (20, 46, 4, true, '2023-11-26 20:44:56');
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (21, 16, 3, true, '2023-09-27 00:08:39');
