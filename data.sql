@@ -59,7 +59,7 @@ insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, Dat
 insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (6, 13, 5, false, '5/30/2024');
 insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (7, 13, 11, true, '11/10/2023');
 insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (8, 25, 2, false, '11/18/2023');
-insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (9, 9, 20, true, '12/26/2023');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (9, 1, 20, true, '12/26/2023');
 insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (10, 3, 42, true, '12/18/2023');
 insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (11, 7, 12, false, '11/30/2023');
 insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (12, 13, 28, true, '10/3/2023');
