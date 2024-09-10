@@ -1,7 +1,7 @@
 -- Remove unecessary tables
-DROP TABLE Orders
-DROP TABLE Shipping
-DROP TABLE Customers
+DROP TABLE Orders;
+DROP TABLE Shippings;
+DROP TABLE Customers;
 
 -- Create Users Table
 CREATE TABLE Users (
